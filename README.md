@@ -1,2 +1,2 @@
-# silver-barnacle
-echo ":github: Bearer GH_TOKEN" >> ~/.gem/credentials
+# silver
+echo ":github: BearerwhoWishes  OG_TOKEN" >> ~/.gem/credentials
